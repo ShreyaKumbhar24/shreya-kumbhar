@@ -1,0 +1,68 @@
+{
+  "basic_info": {
+    "name": "SHREYA KUMBHAR",
+    "titles": ["Software Engineer", "Backend Developer", "QA Automation Specialist", "Frontend Developer", "Data Analyst", "Cloud & DevOps Enthusiast"],
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shreya-kumbhar-5352371b2/",
+        "class": "fab fa-linkedin"
+      },
+      {
+        "name": "email",
+        "url": "mailto:shreyaaa024@gmail.com",
+        "class": "far fa-envelope"
+      }
+    ],
+    "image": "myself/me.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "Java",
+        "class": "devicon-java-plain",
+        "level": "90"
+      },
+      {
+        "name": "SQL",
+        "class": "devicon-mysql-plain",
+        "level": "85"
+      },
+      {
+        "name": "HTML",
+        "class": "devicon-html5-plain",
+        "level": "85"
+      },
+      {
+        "name": "CSS",
+        "class": "devicon-css3-plain",
+        "level": "85"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "75"
+      },
+      {
+        "name": "Selenium",
+        "class": "devicon-selenium-plain",
+        "level": "80"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-original",
+        "level": "70"
+      },
+      {
+        "name": "Python",
+        "class": "devicon-python-plain",
+        "level": "65"
+      },
+      {
+        "name": "Git",
+        "class": "devicon-git-plain",
+        "level": "70"
+      }
+    ]
+  }
+}

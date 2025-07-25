@@ -1,0 +1,148 @@
+{
+  "basic_info": {
+    "description_header": "About me",
+    "description": "Software Engineer with 3 years of experience in backend and frontend development, as well as quality assurance and security. Proficient in Java, RESTful APIs, and SQL for developing scalable backend systems. Experienced in building responsive user interfaces using HTML, CSS, JavaScript, and React. Skilled in test automation with Selenium and Postman, and committed to writing clean, maintainable code. Knowledgeable in secure coding practices to safeguard applications and ensure data protection.",
+    "section_name": {
+      "about": "About Me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience",
+      "education": "Education",
+      "certifications": "Certifications"
+    }
+  },
+  "projects": [
+    {
+      "titles": ["E-Data Locker System"],
+      "startDate": "2023",
+      "descriptions": [
+        "Designed and developed a secure digital locker using HTML, CSS, JS, PHP, and SQL, enabling encrypted storage of sensitive data for family access after a user's demise. Implemented AES-256 encryption for confidentiality and built modules for login, dashboard, and data forms. Created UI/UX flow in Figma and conducted performance analysis comparing DES, 3DES, and AES algorithms."
+      ],
+      "images": [
+        "team-logos/edata.png"
+      ],
+      "urls": [],
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-php-plain",
+          "name": "PHP"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySQL"
+        }
+      ]
+    },
+    {
+      "titles": ["Sentiment Analysis for E-Commerce"],
+      "startDate": "2024",
+      "descriptions": [
+        "Built an NLP-based Python application using SpaCy and Transformers to classify customer reviews. Applied text pre-processing, vectorization, and statistical modeling for brand sentiment scores and visualized insights and category sentiment drift using Matplotlib and Seaborn."
+      ],
+      "images": [
+        "team-logos/sentiment.png"
+      ],
+      "urls": [],
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        }
+      ]
+    },
+    {
+      "titles": ["SafeHouse24"],
+      "startDate": "2025",
+      "descriptions": [
+        "Developed SafeHouse24, a secure digital vault web application using Java Servlets, HTML/CSS, and MySQL, featuring OTP-based authentication, encrypted vault access, and file/password storage. Integrated a support chatbot for real-time user assistance. Ensured strong data protection with SHA-256 hashing, input validation, and session management. Deployed and tested on Apache Tomcat with SMTP integration for email verification."
+      ],
+      "images": [
+        "team-logos/safehouse24.png"
+      ],
+      "urls": [],
+      "technologies": [
+        {
+          "class": "devicon-java-plain",
+          "name": "Java"
+        },
+        {
+          "class": "devicon-mysql-plain",
+          "name": "MySQL"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Persistent Systems, India",
+      "title": "Senior Software Engineer",
+      "years": "Jun 2024 – Aug 2024",
+      "mainTech": ["Java", "Spring Boot", "Selenium", "Postman"],
+      "technologies": ["Java", "Spring Boot", "Selenium", "Postman", "SQL", "Agile"]
+    },
+    {
+      "company": "Persistent Systems, India",
+      "title": "Software Engineer",
+      "years": "Jan 2022 – Jun 2024",
+      "mainTech": ["Java", "Manual Testing", "SQL", "IBM RTC", "IBM RQM"],
+      "technologies": ["Java", "Manual Testing", "SQL", "IBM RTC", "IBM RQM", "Putty", "SVN", "WinSCP"]
+    },
+    {
+      "company": "Qurinom Solutions, India",
+      "title": "Software Developer Intern",
+      "years": "Jul 2021 – Jan 2022",
+      "mainTech": ["Angular", "HTML", "CSS", "JavaScript"],
+      "technologies": ["Angular", "HTML", "CSS", "JavaScript", "Git", "SQL"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Wisconsin-Milwaukee, United States",
+      "degree": "Master of Science in Computer Science",
+      "years": "Sept 2024 - Expected May 2026",
+      "coursework": [
+        "Algorithm Design & Analysis",
+        "Operating Systems",
+        "Natural Language Processing",
+        "Principles & Practices of User",
+        "Introduction to Cybersecurity",
+        "Health Big Data Processing Platforms"
+      ]
+    },
+    {
+      "institution": "MIT ADT University, India",
+      "degree": "Bachelor of Technology in Computer Science",
+      "years": "Aug 2018 - Jul 2022",
+      "coursework": [
+        "Data Structures & Algorithms",
+        "Object-Oriented Programming",
+        "Computer Networks",
+        "Database Management Systems",
+        "Web Technologies",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Data Science",
+        "Cloud Computing",
+        "Cybersecurity"
+      ]
+    }
+  ],
+  "certifications": [
+    "Watson.AI",
+    "AWS Educate Digital Certificate",
+    "SQL For Data Science",
+    "Introduction to Cybersecurity Tools & Cyber Attacks"
+  ]
+}

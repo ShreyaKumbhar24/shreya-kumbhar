@@ -1,0 +1,96 @@
+@import '../light-slider.scss';
+
+/* Light Blue Background Theme */
+body[data-theme="light"] {
+  background-color: #efeff5 !important;
+}
+
+/* Section backgrounds - very light */
+section {
+  background-color: #CDD7F7 !important;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+/* Timeline cards - darker for contrast */
+.vertical-timeline-element-content {
+  background: #ebeaf1 !important;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  border-radius: 12px;
+  color: #ffffff;
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.vertical-timeline-element-content:hover {
+  box-shadow: 0 8px 24px rgba(0,0,0,0.25);
+  transform: translateY(-5px);
+}
+
+/* Main badges - dark with light text */
+.main-badge {
+  background-color: #5863F8 !important;
+  color: #ffffff !important;
+  font-weight: 600;
+  padding: 5px 10px;
+  border-radius: 15px;
+  display: inline-block;
+  margin-right: 8px;
+  margin-bottom: 8px;
+  box-shadow: 0 2px 6px rgba(88, 99, 248, 0.5) !important;
+  transition: box-shadow 0.3s ease;
+}
+
+.main-badge:hover {
+  box-shadow: 0 4px 12px rgba(88, 99, 248, 0.8) !important;
+}
+
+/* Experience badges - slightly lighter dark blue */
+.experience-badge {
+  background-color: #788BFF !important;
+  color: #ffffff !important;
+  font-weight: 600;
+  padding: 5px 10px;
+  border-radius: 15px;
+  display: inline-block;
+  margin-right: 8px;
+  margin-bottom: 8px;
+  box-shadow: 0 2px 6px rgba(66, 82, 180, 0.5) !important;
+  transition: box-shadow 0.3s ease;
+}
+
+
+.experience-badge:hover {
+  box-shadow: 0 4px 12px rgba(39, 54, 153, 0.8) !important;
+}
+
+/* Section titles - darkest for contrast */
+.section-title {
+  color: #23255c; // much darker blue
+  font-weight: 700;
+  letter-spacing: 2px;
+  font-size: 2.2rem;
+  text-shadow: 0 2px 8px rgba(35,37,92,0.15);
+}
+
+/* General text - dark blue */
+body, p, h1, h2, h3, h4, h5, h6 {
+  color: #130624;
+}
+
+/* Icon accents */
+.experience-icon, .education-icon, .skills-icon {
+  color: #f4f5fa;
+}
+
+/* Image slider cleanup */
+.awssld__startUp {
+  background-color: transparent !important;
+}
+
+/* Resume section */
+#resume {
+  background-color: #CDD7F7 !important;
+  padding: 20px 0;
+}

@@ -1,0 +1,71 @@
+body[data-theme="dark"] {
+   @import "../dark-slider.scss";
+;
+
+   background-color: #2d2533; // base dark background
+
+   .slider-tab {
+      background-color: #2e2e2e;
+   }
+
+   .title-styles,
+   .link-href,
+   header h1,
+   .section-title,
+   .vertical-timeline-element-date {
+      color: #f0f0f0;
+   }
+
+   .header-icon {
+      color: #e6d9d9;
+      opacity: 0.7;
+   }
+
+   .slider-image {
+      border: 4px solid #dbd3d3;
+   }
+
+   .language,
+   .project-date,
+   .vertical-timeline-element-icon,
+   .main-badge,
+   .experience-badge,
+   .card,
+   .polaroid span,
+   .foto div {
+      background-color: #36353d;
+      color: #e0e0e0;
+   }
+
+   #about,
+   #portfolio,
+   #resume,
+   header,
+   .modal-inside .modal-content {
+      background-color: #36353d;
+      color: #f0f0f0;
+   }
+
+   .project-title-settings,
+   .vertical-timeline-element-subtitle,
+   .vertical-timeline-element-title {
+      color: #eaeaea;
+   }
+
+   .close-icon {
+      color: #ffffff;
+   }
+
+   @media only screen and (max-width: 1169px) {
+      .vertical-timeline-element-date {
+         color: #cccccc;
+      }
+   }
+
+   // Optional hover/focus effects for buttons or links
+   a:hover,
+   button:hover {
+      color: #ffffff;
+      background-color: #ebd9d9;
+   }
+}
