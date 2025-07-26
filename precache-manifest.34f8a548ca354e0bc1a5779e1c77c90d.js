@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0889392b93c39709e477fd9323531ac8",
+    "revision": "8593d6f5e2d960c027441392cef6c35c",
     "url": "/shreya-kumbhar/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/shreya-kumbhar/static/css/2.13cfa5dc.chunk.css"
   },
   {
-    "revision": "67a395a4497bc4704587",
+    "revision": "6b22a2cdf2a79637414d",
     "url": "/shreya-kumbhar/static/css/main.0280e3b9.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/shreya-kumbhar/static/js/2.96022666.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "67a395a4497bc4704587",
-    "url": "/shreya-kumbhar/static/js/main.a61b3691.chunk.js"
+    "revision": "6b22a2cdf2a79637414d",
+    "url": "/shreya-kumbhar/static/js/main.45de51c4.chunk.js"
   },
   {
     "revision": "488462cc20a7cd7017ef",
