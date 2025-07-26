@@ -21,7 +21,7 @@
         "Designed and developed a secure digital locker using HTML, CSS, JS, PHP, and SQL, enabling encrypted storage of sensitive data for family access after a user's demise. Implemented AES-256 encryption for confidentiality and built modules for login, dashboard, and data forms. Created UI/UX flow in Figma and conducted performance analysis comparing DES, 3DES, and AES algorithms."
       ],
       "images": [
-        "edata.png"
+        "team-logos/edata.png"
       ],
       "urls": [],
       "technologies": [
@@ -56,7 +56,7 @@
         "Built an NLP-based Python application using SpaCy and Transformers to classify customer reviews. Applied text pre-processing, vectorization, and statistical modeling for brand sentiment scores and visualized insights and category sentiment drift using Matplotlib and Seaborn."
       ],
       "images": [
-        "sentiment.png"
+        "team-logos/sentiment.png"
       ],
       "urls": [],
       "technologies": [
@@ -75,7 +75,7 @@
         "Developed SafeHouse24, a secure digital vault web application using Java Servlets, HTML/CSS, and MySQL, featuring OTP-based authentication, encrypted vault access, and file/password storage. Integrated a support chatbot for real-time user assistance. Ensured strong data protection with SHA-256 hashing, input validation, and session management. Deployed and tested on Apache Tomcat with SMTP integration for email verification."
       ],
       "images": [
-        "safehouse24.png"
+        "team-logos/safehouse24.png"
       ],
       "urls": [],
       "technologies": [
