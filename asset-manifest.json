@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/shreya-kumbhar/static/css/main.3a51798d.chunk.css",
-    "main.js": "/shreya-kumbhar/static/js/main.49be1680.chunk.js",
-    "main.js.map": "/shreya-kumbhar/static/js/main.49be1680.chunk.js.map",
+    "main.js": "/shreya-kumbhar/static/js/main.4437289e.chunk.js",
+    "main.js.map": "/shreya-kumbhar/static/js/main.4437289e.chunk.js.map",
     "runtime-main.js": "/shreya-kumbhar/static/js/runtime-main.c590ef88.js",
     "runtime-main.js.map": "/shreya-kumbhar/static/js/runtime-main.c590ef88.js.map",
     "static/css/2.13cfa5dc.chunk.css": "/shreya-kumbhar/static/css/2.13cfa5dc.chunk.css",
     "static/js/2.96022666.chunk.js": "/shreya-kumbhar/static/js/2.96022666.chunk.js",
     "static/js/2.96022666.chunk.js.map": "/shreya-kumbhar/static/js/2.96022666.chunk.js.map",
     "index.html": "/shreya-kumbhar/index.html",
-    "precache-manifest.26e2ec285313009ccaf096a5fae8a816.js": "/shreya-kumbhar/precache-manifest.26e2ec285313009ccaf096a5fae8a816.js",
+    "precache-manifest.a0242e85d194f52df5e62a13f11462f9.js": "/shreya-kumbhar/precache-manifest.a0242e85d194f52df5e62a13f11462f9.js",
     "service-worker.js": "/shreya-kumbhar/service-worker.js",
     "static/css/2.13cfa5dc.chunk.css.map": "/shreya-kumbhar/static/css/2.13cfa5dc.chunk.css.map",
     "static/css/main.3a51798d.chunk.css.map": "/shreya-kumbhar/static/css/main.3a51798d.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.13cfa5dc.chunk.css",
     "static/js/2.96022666.chunk.js",
     "static/css/main.3a51798d.chunk.css",
-    "static/js/main.49be1680.chunk.js"
+    "static/js/main.4437289e.chunk.js"
   ]
 }
