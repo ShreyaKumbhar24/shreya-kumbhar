@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/shreya-kumbhar/static/css/main.0280e3b9.chunk.css",
+    "main.js": "/shreya-kumbhar/static/js/main.bcf64355.chunk.js",
+    "main.js.map": "/shreya-kumbhar/static/js/main.bcf64355.chunk.js.map",
+    "runtime-main.js": "/shreya-kumbhar/static/js/runtime-main.c590ef88.js",
+    "runtime-main.js.map": "/shreya-kumbhar/static/js/runtime-main.c590ef88.js.map",
+    "static/css/2.13cfa5dc.chunk.css": "/shreya-kumbhar/static/css/2.13cfa5dc.chunk.css",
+    "static/js/2.b4f65f57.chunk.js": "/shreya-kumbhar/static/js/2.b4f65f57.chunk.js",
+    "static/js/2.b4f65f57.chunk.js.map": "/shreya-kumbhar/static/js/2.b4f65f57.chunk.js.map",
+    "index.html": "/shreya-kumbhar/index.html",
+    "precache-manifest.3d956c146e8841b0945b878ad7f6be46.js": "/shreya-kumbhar/precache-manifest.3d956c146e8841b0945b878ad7f6be46.js",
+    "service-worker.js": "/shreya-kumbhar/service-worker.js",
+    "static/css/2.13cfa5dc.chunk.css.map": "/shreya-kumbhar/static/css/2.13cfa5dc.chunk.css.map",
+    "static/css/main.0280e3b9.chunk.css.map": "/shreya-kumbhar/static/css/main.0280e3b9.chunk.css.map",
+    "static/js/2.b4f65f57.chunk.js.LICENSE.txt": "/shreya-kumbhar/static/js/2.b4f65f57.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c590ef88.js",
+    "static/css/2.13cfa5dc.chunk.css",
+    "static/js/2.b4f65f57.chunk.js",
+    "static/css/main.0280e3b9.chunk.css",
+    "static/js/main.bcf64355.chunk.js"
+  ]
+}
