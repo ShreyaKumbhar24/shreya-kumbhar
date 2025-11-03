@@ -86,6 +86,13 @@
   ],
   "experience": [
     {
+      "company": "University of Wisconsin–Milwaukee, USA",
+      "title": "Graphic and UI/UX Developer",
+      "years": "Sept 2025 – Present",
+      "mainTech": ["HTML", "CSS", "JavaScript", "React"],
+      "technologies": ["HTML", "CSS", "JavaScript", "React", "Adobe Illustrator", "UI/UX", "Figma", "Accessibility"]
+    },
+    {
       "company": "Persistent Systems, India",
       "title": "Senior Software Engineer",
       "years": "Jun 2024 – Aug 2024",

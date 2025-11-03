@@ -4,7 +4,8 @@ class About extends Component {
   render() {
     let profilepic, hello, about;
     if (this.props.sharedBasicInfo) {
-      profilepic = "images/" + this.props.sharedBasicInfo.image;
+      // Ensure an absolute path from the public folder so images load correctly
+      profilepic = "/images/" + this.props.sharedBasicInfo.image;
     }
     if (this.props.resumeBasicInfo) {
       hello = this.props.resumeBasicInfo.description_header;
