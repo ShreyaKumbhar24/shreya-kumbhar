@@ -13,9 +13,7 @@
   },
   "projects": [
     {
-      "titles": [
-        "E-Data Locker System"
-      ],
+      "titles": ["E-Data Locker System"],
       "startDate": "2023",
       "descriptions": [
         "Designed and developed a secure digital locker using HTML, CSS, JS, PHP, and SQL, enabling encrypted storage of sensitive data for family access after a user's demise. Implemented AES-256 encryption for confidentiality and built modules for login, dashboard, and data forms. Created UI/UX flow in Figma and conducted performance analysis comparing DES, 3DES, and AES algorithms."
@@ -48,9 +46,7 @@
       ]
     },
     {
-      "titles": [
-        "Sentiment Analysis for E-Commerce"
-      ],
+      "titles": ["Sentiment Analysis for E-Commerce"],
       "startDate": "2024",
       "descriptions": [
         "Built an NLP-based Python application using SpaCy and Transformers to classify customer reviews. Applied text pre-processing, vectorization, and statistical modeling for brand sentiment scores and visualized insights and category sentiment drift using Matplotlib and Seaborn."
@@ -67,9 +63,7 @@
       ]
     },
     {
-      "titles": [
-        "SafeHouse24"
-      ],
+      "titles": ["SafeHouse24"],
       "startDate": "2025",
       "descriptions": [
         "Developed SafeHouse24, a secure digital vault web application using Java Servlets, HTML/CSS, and MySQL, featuring OTP-based authentication, encrypted vault access, and file/password storage. Integrated a support chatbot for real-time user assistance. Ensured strong data protection with SHA-256 hashing, input validation, and session management. Deployed and tested on Apache Tomcat with SMTP integration for email verification."
@@ -92,64 +86,32 @@
   ],
   "experience": [
     {
+      "company": "University of Wisconsin–Milwaukee, USA",
+      "title": "Graphic and UI/UX Developer",
+      "years": "Sept 2025 – Present",
+      "mainTech": ["HTML", "CSS", "JavaScript", "React"],
+      "technologies": ["HTML", "CSS", "JavaScript", "React", "Adobe Illustrator", "UI/UX", "Figma", "Accessibility"]
+    },
+    {
       "company": "Persistent Systems, India",
       "title": "Senior Software Engineer",
       "years": "Jun 2024 – Aug 2024",
-      "mainTech": [
-        "Java",
-        "Spring Boot",
-        "Selenium",
-        "Postman"
-      ],
-      "technologies": [
-        "Java",
-        "Spring Boot",
-        "Selenium",
-        "Postman",
-        "SQL",
-        "Agile"
-      ]
+      "mainTech": ["Java", "Spring Boot", "Selenium", "Postman"],
+      "technologies": ["Java", "Spring Boot", "Selenium", "Postman", "SQL", "Agile"]
     },
     {
       "company": "Persistent Systems, India",
       "title": "Software Engineer",
       "years": "Jan 2022 – Jun 2024",
-      "mainTech": [
-        "Java",
-        "Manual Testing",
-        "SQL",
-        "IBM RTC",
-        "IBM RQM"
-      ],
-      "technologies": [
-        "Java",
-        "Manual Testing",
-        "SQL",
-        "IBM RTC",
-        "IBM RQM",
-        "Putty",
-        "SVN",
-        "WinSCP"
-      ]
+      "mainTech": ["Java", "Manual Testing", "SQL", "IBM RTC", "IBM RQM"],
+      "technologies": ["Java", "Manual Testing", "SQL", "IBM RTC", "IBM RQM", "Putty", "SVN", "WinSCP"]
     },
     {
       "company": "Qurinom Solutions, India",
       "title": "Software Developer Intern",
       "years": "Jul 2021 – Jan 2022",
-      "mainTech": [
-        "Angular",
-        "HTML",
-        "CSS",
-        "JavaScript"
-      ],
-      "technologies": [
-        "Angular",
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Git",
-        "SQL"
-      ]
+      "mainTech": ["Angular", "HTML", "CSS", "JavaScript"],
+      "technologies": ["Angular", "HTML", "CSS", "JavaScript", "Git", "SQL"]
     }
   ],
   "education": [
